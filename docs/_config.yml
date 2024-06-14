@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Pytorch Tutorials & Research paper implementations
+title: Pytorch Tutorials & Model implementations
 author: Ikram Ali < mrikram1989@gmail.com >
 logo: logo.png
 
