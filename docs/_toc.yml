@@ -4,11 +4,13 @@
 format: jb-book
 root: intro
 parts:
-- caption: Fundamentals
+- caption: Tutorials
   chapters:
-  - file: fundamentals/tensor
+  - file: tuts/intro
     sections:
-    - file: notebooks
-    - file: markdown-notebooks
+    - file: tuts/tensor
+    - file: tuts/workflow
+    - file: tuts/neural_network_classification
+
 
 
