@@ -12,5 +12,8 @@ parts:
     - file: tuts/workflow
     - file: tuts/neural_network_classification
 
-
-
+- caption: Models Implementation
+  chapters:
+  - file: models/embedding/intro
+    sections:
+    - file: models/embedding/word2vec
